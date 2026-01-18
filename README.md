@@ -22,7 +22,7 @@
     <a href="mailto:rohit.brjn11@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://rohitnitr.github.io/Rohit-Portfolio/">
+    <a href="https://rohitpoddar.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
