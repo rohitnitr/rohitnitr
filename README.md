@@ -102,16 +102,12 @@ I am a **Business Analyst** at **EXL Service**, identifying risks and driving st
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitnitr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitnitr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF" height="150" alt="languages graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitnitr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitnitr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF)
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
