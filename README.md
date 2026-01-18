@@ -107,7 +107,7 @@ I am a **Business Analyst** at **EXL Service**, identifying risks and driving st
 
 <br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohitnitr)
 
 ---
 
