@@ -110,7 +110,7 @@ I am a **Business Analyst** at **EXL Service**, identifying risks and driving st
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=bray_jones&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 ---
