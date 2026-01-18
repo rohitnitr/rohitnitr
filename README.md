@@ -108,6 +108,7 @@ I am a **Business Analyst** at **EXL Service**, identifying risks and driving st
 <br>
 
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitnitr&theme=tokyonight)
 
 ---
 
