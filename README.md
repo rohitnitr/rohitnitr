@@ -16,13 +16,13 @@
   *Turning complex datasets into clear, actionable business strategies.*
 
   <p align="center">
-    <a href="https://linkedin.com/in/your-linkedin-id">
+    <a href="https://www.linkedin.com/in/rohitnitr/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:rohit.brjn11@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://your-portfolio-link.com">
+    <a href="https://rohitnitr.github.io/Rohit-Portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -110,7 +110,7 @@ I am a **Business Analyst** at **EXL Service**, identifying risks and driving st
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitnitr&theme=bray_jones&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 ---
