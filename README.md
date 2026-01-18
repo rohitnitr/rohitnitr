@@ -107,7 +107,7 @@ I am a **Business Analyst** at **EXL Service**, identifying risks and driving st
 
 <br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rohitnitr)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitnitr&theme=tokyonight&hide_border=true)
 
 ---
 
