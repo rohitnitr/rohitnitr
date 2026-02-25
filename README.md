@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Rohit%20Poddar&fontSize=50&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Data%20Strategist&descAlignY=60&descAlign=50" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Business+Analyst+%7C+Data+Strategist;Automating+Workflows+%7C+AI+Enthusiast;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Agentic+AI+%7C+Automation+Systems;Designing+AI+that+Acts" />
 </p>
 
 <br/>
@@ -8,23 +12,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<br/>
+# 👋 Hi there, I'm Rohit Poddar!
 
-# Hi there, I'm Rohit Poddar! 👋
+I’m a **Data Strategist & AI Engineer** focused on how AI can transform automation.  
+My specialty is **Agentic AI**—designing smart, goal-oriented agents that bridge the gap between complex data and actionable workflow automation.
 
-I am a **Business Analyst** at **EXL Service**, specializing in identifying risks and driving data-backed strategies for a global digital payments platform. My work leverages data analytics and predictive modeling to prevent fraud, protect customers, and optimize business decisions.
+I build with a simple philosophy: use AI and data to make work-life more efficient.  
+When I’m not refining models, I’m usually architecting systems that *automate the boring stuff*.
 
-- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> **Current Focus:** Risk Trend Analysis & Automated Reporting Systems  
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **Learning Path:** Generative AI, LangChain, Multi-Agent Orchestration  
-- <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="22" /> **Interests:** The intersection of **AI, Finance, and Business Strategy**
-
-<br/>
-
-<p align="center">
-  <a href="https://rohitpoddar.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=360&lines=%E2%86%92+Portfolio" />
-  </a>
-</p>
+- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> **Current Focus:** Building robust AI tools and using **n8n** to make complex workflows feel effortless  
+- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **Learning Path:** Multi-Agent Orchestration & next-gen RAG architectures  
+- <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="22" /> **Let’s Chat:** Open to OSS collaboration & innovative LLM use cases 
 
 <br/>
 
@@ -36,9 +34,23 @@ I am a **Business Analyst** at **EXL Service**, specializing in identifying risk
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitnitr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohit.brjn11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?logo=google-chrome&logoColor=white)](https://rohitpoddar.vercel.app/)
+<p align="left">
+  <a href="https://linkedin.com/in/rohitnitr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rohit.brjn11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.kaggle.com/rohitnitr" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://instagram.com/rohitnitr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <br/>
 
@@ -50,57 +62,57 @@ I am a **Business Analyst** at **EXL Service**, specializing in identifying risk
 
 ## 🛠️ My Toolbox
 
-<table align="center">
+<table align="center" style="border: none; margin-top: 15px;">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" width="48" />
-      <br><b>Python</b>
+      <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-      <br>SQL
+      <img src="https://skillicons.dev/icons?i=py,fastapi" width="48" />
+      <br>AI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=r" width="48" />
-      <br>R
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
+      <br>PyTorch
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" />
-      <br>Pandas
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
+      <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" />
-      <br>NumPy
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain.png" width="48" />
+      <br>LangChain
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
-      <br>Scikit-Learn
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
+      <br>FastAPI
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" />
-      <br>Tableau
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" />
-      <br>Power BI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" />
-      <br>GCP
+      <img src="https://skillicons.dev/icons?i=docker" width="48" />
+      <br>Docker
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="48" />
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" />
-      <br>Docker
+      <img src="https://skillicons.dev/icons?i=aws" width="48" />
+      <br>AWS
     </td>
     <td align="center" width="90">
       <img src="https://meta-q.cdn.bubble.io/cdn-cgi/image/w=64,h=64,f=auto,dpr=1,fit=contain/f1740327389123x713161792968389100/n8n%20plugin.png" width="48" />
       <br>n8n
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" />
+      <br>Linux
     </td>
   </tr>
 </table>
@@ -115,35 +127,19 @@ I am a **Business Analyst** at **EXL Service**, specializing in identifying risk
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rohitnitr&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohitnitr&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitnitr&layout=compact&theme=dark)
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitnitr&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitnitr&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
+</p>
 
 ## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitnitr&theme=github-compact)
-
-<br/>
-
-## 🚀 Featured Work
-
-<div align="center">
-  <a href="https://github.com/rohitnitr/credit-card-spending-pattern-sas-powerbi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitnitr&repo=credit-card-spending-pattern-sas-powerbi&theme=dark" alt="Credit Card Spending Pattern" />
-  </a>
-  <a href="https://github.com/rohitnitr/stock-price-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitnitr&repo=stock-price-predictor&theme=dark" alt="Stock Price Predictor" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitnitr&theme=github-compact&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=ffffff&hide_border=true" width="100%" />
+</p>
 
 <br/>
 
 <div align="center">
-  <sub>Building reliable data systems with intent, structure, and scale.</sub>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <sub>Building reliable AI systems with intent, structure, and scale.</sub>
 </div>
