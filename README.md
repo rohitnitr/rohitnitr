@@ -69,50 +69,50 @@ When I’m not refining models, I’m usually architecting systems that *automat
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=py,fastapi" width="48" />
-      <br>AI
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+      <br>SQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" />
-      <br>PyTorch
+      <img src="https://skillicons.dev/icons?i=r" width="48" />
+      <br>R
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" />
-      <br>TensorFlow
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" />
+      <br>Pandas
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain.png" width="48" />
-      <br>LangChain
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" />
+      <br>NumPy
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
-      <br>FastAPI
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
+      <br>Scikit-Learn
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" />
-      <br>Docker
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" />
+      <br>Tableau
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" />
+      <br>Power BI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" />
+      <br>GCP
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="48" />
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=docker" width="48" />
+      <br>Docker
     </td>
     <td align="center" width="90">
       <img src="https://meta-q.cdn.bubble.io/cdn-cgi/image/w=64,h=64,f=auto,dpr=1,fit=contain/f1740327389123x713161792968389100/n8n%20plugin.png" width="48" />
       <br>n8n
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" />
-      <br>Linux
     </td>
   </tr>
 </table>
@@ -128,8 +128,8 @@ When I’m not refining models, I’m usually architecting systems that *automat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitnitr&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitnitr&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitnitr&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnitr&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
 </p>
 
 ## 📈 Activity
@@ -140,6 +140,27 @@ When I’m not refining models, I’m usually architecting systems that *automat
 
 <br/>
 
+## 🚀 Featured Work
+
 <div align="center">
-  <sub>Building reliable AI systems with intent, structure, and scale.</sub>
+  <a href="https://github.com/rohitnitr/credit-card-spending-pattern-sas-powerbi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitnitr&repo=credit-card-spending-pattern-sas-powerbi&theme=dark" alt="Credit Card Spending Pattern" />
+  </a>
+  <a href="https://github.com/rohitnitr/stock-price-predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitnitr&repo=stock-price-predictor&theme=dark" alt="Stock Price Predictor" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Building reliable data systems with intent, structure, and scale.</sub>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitnitr&style=flat&color=0ea5e9" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
