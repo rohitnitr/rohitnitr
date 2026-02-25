@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Agentic+AI+%7C+Automation+Systems;Designing+AI+that+Acts" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Business+Analyst+%7C+Data+Strategist;Automating+Workflows+%7C+AI+Enthusiast;Turning+Data+into+Decisions" />
 </p>
 
 <br/>
@@ -14,15 +14,11 @@
 
 # 👋 Hi there, I'm Rohit Poddar!
 
-I’m a **Data Strategist & AI Engineer** focused on how AI can transform automation.  
-My specialty is **Agentic AI**—designing smart, goal-oriented agents that bridge the gap between complex data and actionable workflow automation.
+I am a **Business Analyst** at **EXL Service**, specializing in identifying risks and driving data-backed strategies for a global digital payments platform. My work leverages data analytics and predictive modeling to prevent fraud, protect customers, and optimize business decisions.
 
-I build with a simple philosophy: use AI and data to make work-life more efficient.  
-When I’m not refining models, I’m usually architecting systems that *automate the boring stuff*.
-
-- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> **Current Focus:** Building robust AI tools and using **n8n** to make complex workflows feel effortless  
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **Learning Path:** Multi-Agent Orchestration & next-gen RAG architectures  
-- <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="22" /> **Let’s Chat:** Open to OSS collaboration & innovative LLM use cases 
+- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" /> **Current Focus:** Risk Trend Analysis & Automated Reporting Systems
+- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **Learning Path:** Generative AI, LangChain, Multi-Agent Orchestration
+- <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="22" /> **Interests:** The intersection of **AI, Finance, and Business Strategy**
 
 <br/>
 
@@ -41,13 +37,10 @@ When I’m not refining models, I’m usually architecting systems that *automat
   <a href="mailto:rohit.brjn11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://rohitpoddar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.kaggle.com/rohitnitr" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://instagram.com/rohitnitr" target="_blank">
+  <a href="https://www.instagram.com/___.rohit_.__poddar?utm_source=qr&igsh=OHI0dXk2YWh1bjlx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
