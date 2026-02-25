@@ -128,8 +128,8 @@ When I’m not refining models, I’m usually architecting systems that *automat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitnitr&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnitr&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitnitr&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnitr&theme=tokyonight&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&bg_color=0D1117" width="48%" />
 </p>
 
 ## 📈 Activity
