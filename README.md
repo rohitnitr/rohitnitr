@@ -133,19 +133,6 @@ I am a **Business Analyst** at **EXL Service**, specializing in identifying risk
 
 <br/>
 
-## 🚀 Featured Work
-
-<div align="center">
-  <a href="https://github.com/rohitnitr/credit-card-spending-pattern-sas-powerbi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitnitr&repo=credit-card-spending-pattern-sas-powerbi&theme=dark" alt="Credit Card Spending Pattern" />
-  </a>
-  <a href="https://github.com/rohitnitr/stock-price-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitnitr&repo=stock-price-predictor&theme=dark" alt="Stock Price Predictor" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <sub>Building reliable data systems with intent, structure, and scale.</sub>
 </div>
